@@ -1,0 +1,1 @@
+export const houseName = '银河湾大house'
